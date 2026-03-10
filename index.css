@@ -1,18 +1,25 @@
 h1{
   color: blue;
   background-color: yellow;
+ 
   {
+
   h2{
     color:red;
    background-color:gray;
+
   }
 
-h3{
-  
-   color:yellow;
+
+  h3{
+    color:yellow;
    background-color:brow;
+
   }
+
   p{
-     color:gray;
+  
+    color:gray;
    background-color:magenta;
+
   }
