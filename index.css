@@ -2,22 +2,21 @@ h1{
   color: blue;
   background-color: yellow;
  
-  {
+}
 
-  h2{
+h2{
     color:red;
-   background-color:gray;
+    background-color:gray;
 
   }
 
-
-  h3{
-    color:yellow;
+h3{
+  color:yellow;
    background-color:brow;
 
   }
 
-  p{
+p{
   
     color:gray;
    background-color:magenta;
