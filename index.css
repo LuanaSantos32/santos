@@ -6,4 +6,8 @@ color: ligthgray;
 font-family: Lucida Console;
 text-indent: 2.3em;
 text-shadow: 1px 1px 1px rgb(255, 0, 153);
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-color: blue;
+text-decoration-thickness: 0.2em;
 }
